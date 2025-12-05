@@ -1,0 +1,13 @@
+SET PATH=C:\Windows\System32;C:\Users\rkakad\Angular_Software\node-v18.13.0-win-x64\node-v18.13.0-win-x64;C:\Users\rkakad\AppData\Roaming\npm;
+
+
+
+
+
+
+SET PATH=C:\vodafone\softwares\java\jdk1.7.0_251\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\WindowsPowerShell\Scripts;C:\Program Files\nodejs\;C:\Users\rkakad\AppData\Local\Microsoft\WindowsApps;C:\Users\rkakad\AppData\Local\Programs\Microsoft VS Code\bin;C:\vodafone\softwares\java\jdk1.7.0_251\bin;C:\vodafone\softwares\ApacheMaven-3.6.3\apache-maven-3.6.3\bin;
+
+
+
+
+C:\Users\rkakad\eom-code\BE\develop

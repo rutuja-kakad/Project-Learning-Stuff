@@ -1,0 +1,671 @@
+	
+Assignment-
+    1.  Completing all the necessary trainings and KT required for the project.
+        1. Angular
+            1. Completing Angular training upto the point as suggested.
+        2. Oracle DB
+            1. Completing the oracle database course
+        3. Completing the practice assignment required for the project.
+        4. Completing the Ocean Certification for Java Full Stack With Angular
+              1. Level 1 - Complete the Java Full Stack with Angular Level 1 Certification by clearing the exam.
+              2. Level 2 - Complete the Java Full Stack with Angular Level 2 Certification by clearing the exam.
+
+***********Final
+Need to complete all the necessary trainings required for the project.
+        1. Angular-Completing Angular training upto the point as suggested.
+        2. Oracle DB-Completing the oracle database course
+        3. Completing the practice assignment required for the project while going through trainings.
+        4. Completing the Ocean Certification
+              1. Level 1& 2 - Complete the Java Full Stack with Angular Level 1 & 2 Certification by clearing the exam.
+             
+
+Development
+	1.Learning all the project related knowledge. I have to follow all the KT related videos and Courses related to the project work to be completed 
+	for practice. I have to work on the course projects. keep in touch with my colleagues to learn about the project, more about the tasks 
+	and create related learning test projects.
+           1. Complete the Courses.
+		   
+
+	2.I have to go through all the requirement of the project setup and install all the necessary softwares for the project and set up according to the requirements. Also I have to learn more about the
+	project architecture and practice more on development and debugging.
+	
+	
+	
+	
+I have a comprehensive skill set in Java Full Stack development, Cloud computing, and proficiency in utilizing platforms like cumolocity IOT
+and Mendix. This encompasses end-to-end application development, cloud-based solutions, and expertise in low-code development with tools like Mendix.
+While working with cumulocity also worked on POC in which i have 
+My knowledge and experience span a wide range of technologies, making me well-equipped for diverse software development challenges.
+
+
+I have a comprehensive skill set in Java Full Stack development, Cloud computing, and utilizing platforms like cumolocity IOT
+and Mendix. I have completed Az-900 cloud certification, Cumulocity IOT and Mendix rapid developer with this also completed the Angular
+and oracle courses on udemy. I am doing needful courses for my project knowledge, completed the software installation and gone through 
+project code. I have completed the ocean certifications - Java Full Stack with Angular for both the levels.
+
+ This encompasses end-to-end application development, cloud-based solutions, and expertise in low-code development with tools like Mendix.
+
+
+*******Final
+ I possess a well-rounded skill set in Java Full Stack development and Cloud computing, with hands-on experience in platforms like
+ Cumulocity IoT and Mendix. I've fortified my expertise by completing the Az-900 Cloud certification and specialized courses, including
+ Cumulocity IoT and Mendix Rapid Developer. Additionally, I've honed my frontend skills with Angular and deepened my database knowledge
+ through Oracle courses on Udemy. I'm actively expanding my project-specific knowledge through relevant courses, having completed
+ software installations and thoroughly reviewed project code. Furthermore, I've achieved Ocean certifications for Java Full Stack with
+ Angular at both beginner and advanced levels, showcasing my commitment to continuous learning and proficiency in cutting-edge
+ technologies.
+ 
+ 
+ What level of skills development is being demonstrated?
+ When going through the courses like Angular and Full-stack web development I have also completed projects for hands-on practise while 
+ working on this projects gone through different errors and learned more about the technology. I encountered different errors and 
+ learned how to deal with them and handle this errors without damaging the program. Also learned debugging in java under the 
+ guidance of team. While doing the document analysis learned how to find the requirements and files that needs changes.I have gone 
+ through some courses like java 8, angular , HTML CSS and Javascript on udemy.
+ 
+ 
+ What is the level of contribution this year?
+ The level of contribution this year is I have worked on accumulating various certifications significantly enhanced 
+ my professional profile. With successful completion of Az-900,Cumulocity IOT,Java 8, Angular and Oracle. These certifications not 
+ only reflect to continuous learning but also directly contribute to my ability to work. I am excited to leverage this new found knowledge
+ to drive positive outcomes and elevate my contributions to the team and organization. As I have learned debugging tried to find the endpoint for 
+ given task and with help of team learned how to get it more correct. Also learned what is the actual process when we got any task and how to start
+ work on application. I have gone through document analysis and learned how to find the requirements for any task.
+ 
+ 
+Ecommerece 
+26 remaining to perform 
+28 also 
+ 
+ 
+ Created VPN 
+ ******   FTG_TestNetwork_20240201042
+ 
+ 
+ 
+ Task 
+Insert this to fields in field and view section on the Query Builder 
+NOTE PROGETTA : Text (String)
+•	Field is present in the GAP_PRATICA_DETT  table 
+RUOLO_LINK_HA : Dropdown List (PRINCIPALE/AUSILIARIO)
+•	Field present in GAP_DATI_HA
+•	Need to join this 2 tables GAP_DATI_HA and ID_PRATICA_EOM
+
+ 
+ 
+SELECT * FROM GAP_PRATICA_DETT ;
+
+DESC GAP_PRATICA_DETT;
+
+SELECT NOTE_PROGETTO FROM GAP_PRATICA_DETT;
+
+SELECT * FROM GAP_DATI_HA;
+
+
+
+To complete the ordine Linea stage in VPN use the Layer_TOM service and use test option as TOMInBound and 
+operation as NotificaUsicitasi
+
+
+Laptop Password change 
+1.C:\Users\rkakad\.m2-------After this change the settings.xml file copy paste it and make previous ones name as bkp and in the new one change the old password 
+with the new one 
+2.After this go to C:\Users\rkakad\AppData\Local\Atlassian\SourceTree this location and just make the password file name change as bkp 
+
+There are 2 settings.xml files 
+1 is C:\Users\rkakad\.m2
+2 is C:\vodafone\softwares\ApacheMaven-3.6.3\apache-maven-3.6.3\conf 			(This is the important file where I got error for password)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+SPC VPN : FTG_TestNetwork_20240201042
+Services : 1. EventiTom -> ManageLink
+		   2. EventiTom -> EOMNOTIFY
+		   3. Publicator -> PublicatorEvent 
+		   4. Layer_TOM -> TOMInBound
+		   5. Layer_TOM-TomInbound > GSCNotify
+
+Layer 2 VPN : TEST_L2_20240214042
+
+MOP 
+Link Account : 20240215042
+				20240215001
+				
+To complete the ordine Linea stage in VPN use the Layer_TOM service and use test option as TOMInBound and 
+operation as NotificaUsicitasi
+				
+				
+EOM 
+--Test Server--   http://10.68.69.76/NEW_EOM/#/eomExternal/login
+--New VPN--    http://10.68.69.70:5001/QuickVPN/#/common/dettReteL2/40095
+				
+				
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Task 
+C:\Users\rkakad\eom-code\FE\develop\src\app\corporate-data\tracking\dettaglio-tracking\tracking\tracking.component.ts
+
+tab-log-interazioni.component.html --- actual file where need to do changes
+home-tracking.component.html 
+tracking.component.ts --- This file already have the flag gui 
+
+Find one endpoint 
+hit it in the backend and check how they 2 are getting the values 
+also check the given procedure
+May be changes are only needed in frontend part 
+
+
+Facade takes the data from backend 
+
+
+
+
+------
+How to run sonarqube
+
+java -version  --1.7.0_251
+set path=C:\Program Files\Eclipse Adoptium\jdk-19.0.2.7-hotspot\bin
+
+now sonarqube path
+cd C:\vodafone\softwares\sonarqube-8.3.1.34397\bin\windows-x86-64
+
+StartSonar.bat
+
+
+Type all the above commands in one file(this is batch file) name it as Start Sonar Local.bat
+and now open file manager and open this file it will open the cmd which will open the sonarqube 
+
+
+If sonar didn't work on 2020 then goto the sonarqube in the conf folder sonar properties file change the port 
+default port 9000
+
+After sonar is up need to configure sonar scanner and in sonar scanner same port as of sonar qube 
+Tap on the sonar scanner and right click now properties in the environment variables you need to put the path till the bin of sonar 
+scanner 
+
+After this you need to add 2 the plugin in pom.xml
+this are the 2 changes we need to do in pom.xml
+line 184 add this 
+
+<plugin>
+<groupId>org.jacoco</groupId>
+<artifactId>jacoco-maven-plugin</artifactId>
+<version>0.8.2</version>
+<executions>
+<execution>
+<goals>
+<goal>prepare-agent</goal>
+</goals>
+</execution>
+<execution>
+<id>report</id>
+<phase>prepare-package</phase>
+<goals>
+<goal>report</goal>
+</goals>
+</execution>
+</executions>
+</plugin>
+
+and line 22 
+<sonar.host.url>http://localhost:2020</sonar.host.url>
+<sonar.login>admin</sonar.login>
+<sonar.password>admin</sonar.password>
+
+
+Now go to sonar.properties (ctrl+sft+r)
+
+Copy the path of the file for which you have to write unit case 
+sonar.sources=./src ---- This will take the complete project if we need to only give 1/2 class then smply do this 
+sonar.sources=
+change the sonar-projectName= ..... this will be reflected in the sonar 
+
+Now Open copy the folder path where our backend code is there      C:\Users\rkakad\eom-code\BE\develop
+once you are on this path just hit ------ sonar-scanner   (this will run on 1.7.... our project java version ) 
+sonarqube will need 11/12 to start 
+And use "," for 2 files 
+
+
+And for coverage you need to add jaco dependency to the pom.xml
+right click on eom-Backend and Run as Maven Test (This will give you coverage of complete project)
+
+Select Your file-> now right click and run as -> 3 unit test
+
+Refresh
+eom_code/BE/target/site/index.html'
+
+Or just write the test cases for the file where you have made changes and run the file 
+Right click the file -> Run as -> 3 unit cases 
+Right click -> Coverage as -> 1 Unit case 
+this will give you coverage of the file 
+
+
+
+
+
+target->site->jacoco->index.html
+
+
+13/03
+
+C:\vodafone\softwares\java_11\jdk-11.0.12.7-hotspot\bin>set path=C:\vodafone\softwares\java_11\jdk-11.0.12.7-hotspot\bin
+
+C:\vodafone\softwares\java_11\jdk-11.0.12.7-hotspot\bin>cd C:\vodafone\softwares\sonarqube-8.3.1.34397\bin\windows-x86-64
+
+C:\vodafone\softwares\sonarqube-8.3.1.34397\bin\windows-x86-64>java -version
+openjdk version "11.0.12" 2021-07-20
+OpenJDK Runtime Environment Temurin-11.0.12+7 (build 11.0.12+7)
+OpenJDK 64-Bit Server VM Temurin-11.0.12+7 (build 11.0.12+7, mixed mode)
+
+C:\vodafone\softwares\sonarqube-8.3.1.34397\bin\windows-x86-64>StartSonar.bat
+
+
+
+
+
+sonar.projectKey=eom:backend
+sonar.projectName=eom-backend
+sonar.projectVersion=2.0
+#sonar.sources=./src
+sonar.sources=C:/Users/rkakad/eom-code/BE/develop/src/test/java/com/capgemini/eom2/dbData/pratiche/dettaglioPratica/LogInterazioniDAOTest.java,C:/Users/rkakad/eom-code/BE/develop/src/test/java/com/capgemini/eom2/domain/pratiche/dettaglioPratica/DetailsTrackingTest.java
+sonar.sourceEncoding=UTF-8
+
+
+
+
+<plugin>
+<groupId>org.jacoco</groupId>
+<artifactId>jacoco-maven-plugin</artifactId>
+<version>0.8.2</version>
+<executions>
+<execution>
+<goals>
+<goal>prepare-agent</goal>
+</goals>
+</execution>
+<execution>
+<id>report</id>
+<phase>prepare-package</phase>
+<goals>
+<goal>report</goal>
+</goals>
+</execution>
+</executions>
+</plugin>
+
+
+
+<sonar.host.url>http://localhost:2020</sonar.host.url>
+<sonar.login>admin</sonar.login>
+<sonar.password>admin</sonar.password>
+
+
+https://capgemini-my.sharepoint.com/personal/rutuja-dilip_kakad_capgemini_com/Documents/Task%20Process.docx?web=1
+
+CTRL+F7 -- in sql developer will indent your code or right click and choose format
+
+
+
+-- 24/04/24
+
+****layer 2  -- 20160629M003 link account
+****Overview Pratiche contains No of link accounts for test anything
+
+--CDA you will find in the vpn servizi and MPN segregated you will find in the primario intranet 
+link which contains both of them are 2024022299995
+
+
+
+--
+
+SELECT ID_OTC_SRV, PARAM, VALORE FROM VPNT_SRV_IST, VPNT_SRV_IST_PARAM 
+WHERE ID_OTC_SRV IN ('77', '6')
+AND PARAM = 'IP_ASSIGN_MODE' 
+AND VALORE = 'Da server radius VF' ;
+
+--
+
+--Remediation
+67144
+
+-------
+V202404_0_18_0_1__mod_
+V202404_0_18_0_2__mod_
+
+--------31/-5/2024
+Junit Testing 
+
+-  JUnit Test Life Cycle 
+	@BeforeAll		| These 2 are used to perform 
+	@BeforeEach		| initilization task of test
+	@Test
+	@AfterEach		|Used to perform cleanup
+	@AfterAll		|task for test
+	
+
+
+
+
+INTRANET FIELDS / Internet Subnet Fields (maybe only required if we are using INTRANET)
+They are not mandatory in creation however they are checked on provisioning and can give error there.
+ 
+LAN Interne INTRANET (subnet)
+Example 192.161.1.1/24
+IP del CPE LAN Cliente Intranet
+Should contain an Ip that is contained in the subnet above
+Example 192.161.1.2/32
+We need to insert a mask “/32” in example, as well even if its just an IP.
+If given two values in backup and primary
+must be different.
+We need to insert a mask as well.
+IP VRRP LAN
+Only a primary field (not in backup).
+Should be contained in the subnet above.
+Must be different from the IP del CPE LAN Cliente Intranet(s)
+We need to insert a mask, example- “/32” as well even if its just an IP.
+ 
+During Provisioning-
+LAN Master
+Between the Lan Interne (indrizzo IPs), the lan master is the Ip which contains cpe ip of the primary.
+The VRRP ip and the backup cpe Ip must belong to this subnet as well.
+Means it will have different configuration from the other subnet  but that is something which is automatic during the provisioning.
+These IPs must be different from one another and exist inside the LAN Master
+VRRP IP
+Backup 4G ip if it exists
+The backup cpe ip if it exists.
+
+
+
+
+
+--String Interpolation ( use variable name in the .ts and now use same variable name in the html file
+--Event Handling (Once any action happend do this or call this which will do our work)
+-- 2 way Data binding in this you will use [(ngModel)]="username"  ([()] - Banana in a box ) 
+
+
+-------03/06/24
+- Save all the data to db once we click register										-Done
+- Once we save the data then it should open 1 pop-up (modal) make it more customize		
+- After save make the form reset 														-Done
+- Once we click it shows all the data we previously entered make it clear 				-Done
+
+--------04/06/24
+- Create a composite key (phonenumber and email )
+- Perform validation for email already exists
+- make the modal work									-Done
+
+------
+Bitbucket account is needed for sourcetree
+Without it we cannot use sourcetree
+------
+
+popup component
+	---- open(true)
+	
+	in the modal component
+		if(!flag)
+			SUCCESS
+		else
+			FAILURE
+			email exists 
+			
+---------
+05/06/2024
+Work on login logic 
+	Email already exists
+	While login if user entered wrong password it should popup wrong email or password
+	
+	
+	------
+	C:\apache-maven-3.6.3\conf
+	here settings.xml password for 1st when we created 
+	
+	C:\Users\rkakad\.m2
+	here we always change change the settings.xml file 
+	
+	
+	------
+	
+	Server Add to eclipse-ide/----
+	https://www.geeksforgeeks.org/configuration-of-apache-tomcat-server-with-eclipse-ide/
+	
+	------
+	
+	While Eunning smartnet code (QuickVPN)
+	
+	Error At 
+	Description	Resource	Path	Location	Type
+The container 'Maven Dependencies' references non existing library 'C:\Users\rkakad\OneDrive - Capgemini\.m2\repository\com\capgemini\CommonQuick\60.0.0_FPC_2216_01\CommonQuick-60.0.0_FPC_2216_01.jar'	QuickVPN		Build path	Build Path Problem
+
+
+
+***********************************
+username : eonApp
+Password : passw0rd
+***********************************
+
+
+
+I have added @SpringBootApplication(exclude = SecurityAutoConfiguration.class) in my main application to remove the built-in sign-in page
+which spring security provides but it is causing 1 problem in the controller. And showing error at console. I have 1 service to call the
+ findall() method but I have not used @autowired as it is throwing an error and if used then it compiles perfectly but once visit the
+ angular page then it shows a error as "Field userService in com.cg.university.Attendance.controller.TestController required a 
+ bean of type 'com.cg.university.Attendance.service.UserService' that could not be found."
+ 
+ 
+ 
+ -----------------------
+ Certifications
+ 
+1. Microsoft Certified: Azure Fundamentals 
+2. Cumulocity IoT Basic (E234A-7BE)
+3. Mendix Rapid Developer Certification
+4. Software Engineer - Java - Core Java Grade A4 - Level 1(Beginner)
+5. Software Engineer - Java - Core Java Grade A4 - Level 2(Practitioner)
+
+
+*******************
+
+Search for any word then do alt + enter this will show all files where the searched is ussed in (inside a single file)
+Alt + Enter		-- Search for any word then do alt + enter this will show all files where the searched is ussed in (inside a single file)
+Ctrl+Shift+I 	-- for getting value of any variable
+Func+F6			-- For debug
+
+*******************
+
+31/07/2024
+
+Important Document for study 
+	- Vodafone - C:\Vodafone
+	- Projects - C:\Attendance Mgmt
+			   - C:\Ecommerce-Project
+			   - C:\Users\rkakad\OneDrive - Capgemini\Desktop\Angular Projects 
+
+	- Course Learnings - C:\Course Learnings
+					   - C:\Users\rkakad\OneDrive - Capgemini\Desktop\Angular Projects\Angular Instructions
+					   
+					   
+pwd on terminal gives you present working directory
+
+        overlap: false, for events overlapping 
+		
+		2024022299995
+		
+		
+*********************
+
+warp.dev 
+Docker helps to install application like mysql developer 
+the docker container stores the database data of your 
+
+
+John Teacher 
+Emma Student 
+admin admin 
+
+
+
+cd mkdir
+cd
+cd..
+mf -
+
+
+
+Linux Commands 			Functionality
+ls						Displays information about files in the current directory.
+pwd						Displays the current working directory.
+mkdir					Creates a directory.
+cd						To navigate between different folders.
+rmdir					Removes empty directories from the directory lists.
+cp						Moves files from one directory to another.
+mv						Rename and Replace the files
+rm						Delete files 
+uname					Command to get basic information about the OS
+locate					Find a file in the database.
+echo					Display active processes on the terminal
+clear					Clear terminal 
+wc						Check the lines, word count, and characters in a file using different options
+
+
+********
+26/09/24
+
+FrontEnd  
+Angular: Angular Material, HTML,CSS,bootstrap 
+BackEnd: Spring, Spring Boot, Java 
+DevOps: Gitlab, Github
+Database: SQL,PL/SQL
+SonarQuebe
+Other Languages: C, C++ 
+
+********
+
+--	Checkout to the branch we want and then take the pull of the same 
+
+-- To active any cda you need to go to that cda 
+	- serial sim 
+	- add the sim no 8939123 then modify and confirm 
+	- But the stato should be in the variazione condition 
+	
+----------
+Kalliope test LA 
+
+20240201042
+202416070001
+20240801099999
+
+-----------
+
+
+
+frontend					backend					no
+frontendsourcetree 			backendsourcetree		fine
+frontendsourcetree			backend					no
+frontend					backendsourcetree		fine
+
+
+
+There is problem in my backend 
+
+
+
+/*******Error 
+
+package com.cg.university.Attendance.entity;
+
+import jakarta.persistence.*;
+import lombok.Getter;
+import lombok.Setter;
+
+@Entity
+@Table(name= "user")
+@Getter     //lombok will write getter & setter for us in the back
+@Setter
+public class User {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Integer id;
+
+    @Column(name= "firstname")
+    private String firstname;
+
+    @Column(name= "lastname")
+    private String lastname;
+
+    @Column(name= "email")
+    private String email;
+
+    @Column(name= "password")
+    private String password;
+
+    @Column(name= "phone_number")
+    private String phoneNumber;
+
+    @Column(name= "location")
+    private String location;
+
+    @Column(name= "attended")
+    private Boolean attended;
+
+
+    @ManyToOne
+    @JoinColumn(name = "department_id", referencedColumnName = "id")
+    private Department department;
+
+      @ManyToOne(fetch = FetchType.EAGER)
+	       ****************** @ManyToOne(fetch = FetchType.LAZY)		This will not work witj spring security 
+		   From getroles it will not get the result roles and won't let you log in 
+		   
+
+      @JoinColumn(name = "role_id", referencedColumnName = "id")
+
+      private Roles roles;
+
+
+//    public User(String userName, String password) {
+//    }
+}
+
+
+--------------------------------
+need to perform
+- How the state of any vpn is changed (verifica tecnica/preallocazione) 
+
+
+
+
+
+
+----
+			SDWAN
+smartNetCD---yes
+smartNetCDOmbra---yes
+smartNetSPC---yes(si/no)
+smartNetSPCOmbra---yes(si/no)
+layer2Ombra---no
+
+
+SmartNetUploadEnum.CD.getTemplateOmbra
+
+
+    private XSSFWorkbook recuperaFileStrutturaOmbra(SmartNetUploadEnum topologia) {
+
+
+                esito = elaboratore.verificaFormaleFileStruttura(SmartNetUploadEnum.SPC);
+	        XSSFWorkbook workbookOmbra = recuperaFileStrutturaOmbra(topologia);
+
+----
+
+Spring Security Testing 
+You need to add this dependency as well 
+
+	<dependency>
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-test</artifactId>
+            <scope>test</scope>
+    </dependency>
+	
+	
+	

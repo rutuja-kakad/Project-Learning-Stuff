@@ -1,0 +1,4 @@
+Static Block - Will execute once the JVM is loaded 
+Instance Block - Will execute once object is created 
+Constructor - Will execute after instance block once obj is created 
+Method - will execute once called by any object 

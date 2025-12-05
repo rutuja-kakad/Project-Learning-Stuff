@@ -1,0 +1,99 @@
+Static Block - Will execute once the JVM is loaded 
+Instance Block - Will execute once object is created 
+Constructor - Will execute after instance block once obj is created 
+Method - will execute once called by any object 
+
+
+Class
+Naming, Compiling and Running Java Files Containing More Than One Class Definitions
+
+
+class ClassOne
+{
+     public static void main(String[] args)
+     {
+         ClassTwo.methodOfClassTwo();
+     }
+}
+ 
+class ClassTwo
+{
+     static void methodOfClassTwo()
+     {
+         System.out.println("From Class Two");
+     }
+}
+
+1)
+Type 					Naming 			Compiling 				Running 			
+Normal Example as above 	-Name it anything .	- Can Compile any one 		- But you can run only that 
+2 classes 				-ClassOne.java/							  one which contain main 
+					 ClassTwo.java/							  method .
+					 anything.java
+
+
+2)
+If Class One is Public 		
+
+Naming 
+-You have to name the file as ClassOne Coz its public class . If you give any other name you will get compile time error : class ClassOne is public, should be declared in a file named ClassOne.java.
+
+Compiling 
+-Only one name is allowed so compile with that name only 
+
+Running 
+-Run the class one 
+
+
+3)
+If Class Two is Public 		
+
+Naming 
+-You have to name the file as ClassTwo Coz its public class . If you give any other name you will get compile time error : class ClassTwo is public, should be declared in a file named ClassTwo.java.
+
+Compiling 
+-Only Two name is allowed so compile with that name only 
+
+Running 
+-class Two will throw an error as it doesn't have main method inside it.  If you run it as >java ClassTwo, you will get run time error : Main method not found in class ClassTwo, please define the main method as public static void main(String[] args).
+
+
+ 
+4)
+If Class One and Two both are Public 		
+
+Naming 
+-Whatever you give the name, whether it is ClassOne.java or ClassTwo.java or anything.java,  you will get compile time error. Because One java file should contain only one or zero public class. It should not contain more than one public class.
+
+
+5)
+If both class have main method and no one is public 
+
+Naming : You can save this program with any name. It can be ClassOne.java or it can be ClassTwo.java or it can be anything.java as there is no public class.
+
+Compile : You have to compile this program with the name you have given i.e >javac ClassOne.java or >javac ClassTwo.java or >javac anything.java.
+
+Running : Notice that both the classes have main() method. You can run both the classes with their name. i.e  If you trigger >java ClassOne, you will get From Class One as output. If you trigger >java ClassTwo, you will get From Class Two as output.
+
+
+Increnement and Decrement Operators
+a=0
+
+Usage value (used value) Storage value (Value stored in memory)
+
+++a	usage value : 1  storage value : 1    
+a++	usage value : 0  storage value : 1
+--a	usage value : -1 storage value : -1
+a--	usage value : 0  storage value : -1
+
+
+
+
+Abstract 
+	Abstract in java is used to hiding the implementation details and showing onlu=y the functionality.
+There are 2 ways to achieve abstraction :
+1)Abstract Class
+2)Interface 
+
+
+ 
